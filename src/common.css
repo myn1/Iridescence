@@ -1,0 +1,22 @@
+*{
+  margin:0;
+  padding:0
+}
+
+body{
+background-color:rgb(255,255,255);
+}
+
+
+.canvas-wrapper {
+    position: relative;
+}
+
+.canvas-wrapper canvas {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+
+
